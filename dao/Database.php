@@ -6,7 +6,7 @@ class Database
     private $host = 'localhost';
     private $db = 'contatos';
     private $user = 'root';
-    private $pass = 'Daikirai610593';
+    private $pass = '';
 
     private function __construct()
     {
